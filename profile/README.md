@@ -12,7 +12,7 @@ story views, reach and replies, next to your posts and Reels, for every account 
 - **Reports and ads**: reports for clients and teams, and Meta ads managed from the same place.
 - **API and MCP**: ask about your Instagram analytics from Claude, Cursor or your own code.
 
-**[storylink.pro](https://storylink.pro)** · [Guides](https://storylink.pro/en/guides) · [Pricing](https://storylink.pro/en/pricing) · [Status](https://storylink.pro/status)
+**[storylink.pro](https://storylink.pro)** · **[Live demo](https://storylink.pro/en/demo)** · [Guides](https://storylink.pro/en/guides) · [Pricing](https://storylink.pro/en/pricing) · [Status](https://storylink.pro/status)
 
 ## Open source
 
