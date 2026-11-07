@@ -18,5 +18,6 @@ story views, reach and replies, next to your posts and Reels, for every account 
 
 - [storylink-mcp](https://github.com/storylinkpro/storylink-mcp): the MCP server for Storylink (MIT).
 - [storylink-skills](https://github.com/storylinkpro/storylink-skills): Claude skills for Instagram reports, drop investigations and what's working (MIT).
+- [instagram-stories-api](https://github.com/storylinkpro/instagram-stories-api): a typed Instagram Graph API client and CLI for Node.js. It reads Stories, posts, reels and their insights. On npm as [`@storylinkpro/instagram-stories-api`](https://www.npmjs.com/package/@storylinkpro/instagram-stories-api) (MIT).
 
-Storylink is not affiliated with Meta Platforms, Inc. Contact: admin@storylink.pro
+Storylink is not affiliated with Meta Platforms, Inc. Contact: hello@storylink.pro
