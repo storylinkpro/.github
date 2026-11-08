@@ -5,6 +5,8 @@ Schedule and analyse Instagram Stories, posts and Reels, in one calendar.
 Storylink publishes your content on time and shows what works:
 story views, reach and replies, next to your posts and Reels, for every account you run.
 
+[![Storylink demo: a month of Instagram Stories on one calendar, scheduled to Instagram and Facebook, with ads and analytics](demo.webp)](https://storylink.pro/en/demo)
+
 - **Calendar**: plan Stories, posts and Reels for each Instagram account, and auto-publish on time.
 - **Cross-posting**: send the same post to Facebook, LinkedIn and Google Business Profile.
 - **Recurring schedules**: repeat a post daily, weekly or monthly, with holiday handling.
